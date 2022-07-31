@@ -1,4 +1,4 @@
-# Mini Buymeacoffee Snart Contract
+# Mini BuyMeCoffee Smart Contract
 
 This smart contract is used for the demo version
 
