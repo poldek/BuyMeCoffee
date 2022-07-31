@@ -1,6 +1,9 @@
-# Sample Hardhat Project
+# Mini Buymeacoffee Snart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This smart contract is used for the demo version
+
+MyWallet demo environment, show metamask wallet confirm and sign message
+[`DEMO`](http://mywallet.pgmsoft.com).
 
 Try running some of the following tasks:
 
